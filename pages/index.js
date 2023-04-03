@@ -97,7 +97,7 @@ export default function Home(props) {
           type="text/javascript"
           src="https://api.pirsch.io/pirsch.js"
           id="pirschjs"
-          data-code="yojqyHBKGLOMJXGFnwWwP3IIWL7E8Ohv"
+          data-code="p7MCehtvDgH00nzVwSQv2yqP5iB700Pt"
         ></script>
       </Head>
 
@@ -274,6 +274,7 @@ export default function Home(props) {
         */}
 
         <h2>🔽 Interested In More?</h2>
+        <div>Stay tuned! 🤓</div>
         {/*
         <div className={styles['issue-container']}>
           {props.latest.map((issue, i) => (
