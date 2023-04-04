@@ -22,71 +22,71 @@ export default function Home(props) {
         <link
           rel="avatar-icon"
           sizes="57x57"
-          href="/melnguyen-squared.png"
+          href="/melnguyen-200x200.png"
         />
         <link
           rel="avatar-icon"
           sizes="60x60"
-          href="/melnguyen-squared.png"
+          href="/melnguyen-200x200.png"
         />
         <link
           rel="avatar-icon"
           sizes="72x72"
-          href="/melnguyen-squared.png"
+          href="/melnguyen-200x200.png"
         />
         <link
           rel="avatar-icon"
           sizes="76x76"
-          href="/melnguyen-squared.png"
+          href="/melnguyen-200x200.png"
         />
         <link
           rel="avatar-icon"
           sizes="114x114"
-          href="/melnguyen-squared.png"
+          href="/melnguyen-200x200.png"
         />
         <link
           rel="avatar-icon"
           sizes="120x120"
-          href="/melnguyen-squared.png"
+          href="/melnguyen-200x200.png"
         />
         <link
           rel="avatar-icon"
           sizes="144x144"
-          href="/melnguyen-squared.png"
+          href="/melnguyen-200x200.png"
         />
         <link
           rel="avatar-icon"
           sizes="152x152"
-          href="/melnguyen-squared.png"
+          href="/melnguyen-200x200.png"
         />
         <link
           rel="avatar-icon"
           sizes="180x180"
-          href="/melnguyen-squared.png"
+          href="/melnguyen-200x200.png"
         />
         <link
           rel="icon"
           type="image/png"
           sizes="192x192"
-          href="/melnguyen-squared.png"
+          href="/melnguyen-200x200.png"
         />
         <link
           rel="icon"
           type="image/png"
           sizes="32x32"
-          href="/melnguyen-squared.png"
+          href="/melnguyen-200x200.png"
         />
         <link
           rel="icon"
           type="image/png"
           sizes="96x96"
-          href="/melnguyen-squared.png"
+          href="/melnguyen-200x200.png"
         />
         <link
           rel="icon"
           type="image/png"
           sizes="16x16"
-          href="/melnguyen-squared.png"
+          href="/melnguyen-200x200.png"
         />
         <link rel="manifest" href="/manifest.json" />
         <meta name="msapplication-TileColor" content="#ffffff" />
