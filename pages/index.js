@@ -149,7 +149,7 @@ export default function Home(props) {
               </li>
               <li>
                 <span style={{ marginRight: '10px' }}>🧑‍💻</span>
-                Data Analyst/Janitor
+                Data Analyst
               </li>
               <li>
                 <span style={{ marginRight: '10px' }}>🔨</span>
@@ -161,7 +161,7 @@ export default function Home(props) {
               </li>
               <li>
                 <span style={{ marginRight: '10px' }}>🇸🇬</span>
-                Breathing in Singapore
+                Spent a decade in Singapore
               </li>
               <li>
                 <span style={{ marginRight: '10px' }}>🐺</span>
@@ -221,13 +221,19 @@ export default function Home(props) {
               <li>
                 <div>
                   <span style={{ marginRight: '10px' }}>👕</span>
-                  <a href="https://www.notion.so/templates/wardrobe-and-cost-per-wear-tracker">Wardrobe Tracker Template</a>
+                  <a href="https://www.notion.so/templates/wardrobe-and-cost-per-wear-tracker">Wardrobe & Cost Per Wear Tracker</a>
                 </div>
               </li>
               <li>
                 <div>
-                  <span style={{ marginRight: '10px' }}>📚</span>
-                  <a href="https://melnguyen.gumroad.com/">Gumroad</a>
+                  <span style={{ marginRight: '10px' }}>🏍️</span>
+                  <a href="https://www.notion.com/templates/motorbike-maintenance">Motorbike Maintenance</a>
+                </div>
+              </li>
+              <li>
+                <div>
+                  <span style={{ marginRight: '10px' }}>🗺️</span>
+                  <a href="https://travel-itinerary-generator-weld.vercel.app/">My First Travel Web App</a>
                 </div>
               </li>
               <li>
